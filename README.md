@@ -4,7 +4,7 @@
 
 # Hi, I'm Sam
 
-**Web Designer & Front-End Developer**
+**CFreak Designs · Web Designer & Front-End Developer**
 
 I design and build fast, responsive, bilingual websites in Arabic and English for businesses, brands and online stores.
 
@@ -54,7 +54,7 @@ Available for freelance projects on **[Mostaql](https://mostaql.com)**.
 
 ## مرحبًا، أنا سام
 
-**مصمم ومطوّر واجهات مواقع**
+**‏CFreak Designs · مصمم ومطوّر واجهات مواقع**
 
 أصمم وأطوّر مواقع سريعة ومتجاوبة باللغتين العربية والإنجليزية للشركات والعلامات التجارية والمتاجر الإلكترونية.
 
