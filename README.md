@@ -6,7 +6,7 @@
 
 **CFreak Designs · Web Designer & Front-End Developer**
 
-I design and build fast, responsive, bilingual websites in Arabic and English for businesses, brands and online stores.
+I design and build fast, responsive, bilingual websites in Arabic and English for businesses, brands and online stores, and Android apps.
 
 </div>
 
@@ -17,6 +17,7 @@ I design and build fast, responsive, bilingual websites in Arabic and English fo
 - **Landing pages** — focused, fast pages built around one goal
 - **Arabic + English sites** — full right-to-left / left-to-right switching done properly, not as an afterthought
 - **Responsive & accessible** — looks right and works on every screen, from phones to wide monitors
+- **Android apps** — from the idea and screen design to an app that's ready to publish on Google Play
 
 ### 🧰 Tools
 
@@ -26,6 +27,7 @@ I design and build fast, responsive, bilingual websites in Arabic and English fo
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A0A0A?style=flat-square)
 ![RTL / LTR](https://img.shields.io/badge/Arabic_RTL_%2F_English_LTR-0A0A0A?style=flat-square)
 ![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=flat-square&logo=google&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
@@ -56,7 +58,7 @@ Available for freelance projects on **[Mostaql](https://mostaql.com)**.
 
 **‏CFreak Designs · مصمم ومطوّر واجهات مواقع**
 
-أصمم وأطوّر مواقع سريعة ومتجاوبة باللغتين العربية والإنجليزية للشركات والعلامات التجارية والمتاجر الإلكترونية.
+أصمم وأطوّر مواقع سريعة ومتجاوبة باللغتين العربية والإنجليزية للشركات والعلامات التجارية والمتاجر الإلكترونية، إلى جانب تطبيقات أندرويد.
 
 ### 🛠️ خدماتي
 
@@ -65,6 +67,7 @@ Available for freelance projects on **[Mostaql](https://mostaql.com)**.
 - **صفحات الهبوط** — صفحات سريعة ومركّزة مبنية حول هدف واحد
 - **مواقع ثنائية اللغة** — تبديل كامل ومتقن بين اتجاه العربية واتجاه الإنجليزية
 - **تصميم متجاوب وسهل الاستخدام** — يظهر ويعمل بشكل صحيح على جميع الشاشات من الجوال حتى الحاسوب
+- **تطبيقات أندرويد** — من الفكرة وتصميم الشاشات حتى تطبيق جاهز للنشر على متجر ‎Google Play
 
 ### ⭐ أبرز الأعمال
 
